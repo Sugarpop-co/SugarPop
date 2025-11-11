@@ -21,7 +21,6 @@ const HomePage = () => (
     <>
         <MainProduct />
         <PromocionBanner />
-        <FeaturedProducts />
         <FooterProduct />
     </>
 );
